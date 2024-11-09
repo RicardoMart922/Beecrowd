@@ -3,8 +3,14 @@
 using namespace std;
 
 int main() {
-    
-    cout << "Hello World!\n";
+    int valueA, valueB, sumAB;
+
+    cin >> valueA;
+    cin >> valueB;
+
+    sumAB = valueA, valueB;
+
+    cout << "X = " << sumAB << '\n';
 
     return 0;
 }
