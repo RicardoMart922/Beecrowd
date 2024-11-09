@@ -26,7 +26,7 @@ Soluções para os desafios da plataforma.
 - [x] [1020 - Idade em Dias](https://judge.beecrowd.com/pt/problems/view/1020)
 - [x] [1021 - Notas e Moedas](https://judge.beecrowd.com/pt/problems/view/1021)
 - [x] [1022 - TDA Racional](https://judge.beecrowd.com/pt/problems/view/1022)
-- [x] [1023 - Estiagem](https://judge.beecrowd.com/pt/problems/view/1023)
+- [ ] [1023 - Estiagem](https://judge.beecrowd.com/pt/problems/view/1023)
 - [x] [1024 - Criptografia](https://judge.beecrowd.com/pt/problems/view/1024)
 - [x] [1025 - Onde está o Mármore?](https://judge.beecrowd.com/pt/problems/view/1025)
 - [x] [1026 - Carrega ou não Carrega?](https://judge.beecrowd.com/pt/problems/view/1026)
